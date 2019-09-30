@@ -12,19 +12,19 @@
       },
       {
         "package": "Keycard",
-        "repositoryURL": "/Users/dmitry/projects/gnosis/Keycard.swift",
+        "repositoryURL": "https://github.com/status-im/Keycard.swift",
         "state": {
           "branch": "master",
-          "revision": "3f8ce4fdda227565c864e1972368aa9a0e91fe19",
+          "revision": "096ace0535b9b822ce3bb7532341d54310469527",
           "version": null
         }
       },
       {
         "package": "secp256k1",
-        "repositoryURL": "https://github.com/gnosis/secp256k1.swift.git",
+        "repositoryURL": "https://github.com/status-im/secp256k1.swift.git",
         "state": {
           "branch": "master",
-          "revision": "43bb7f4e4cfa6317272c50b9dae4e88e53e258c0",
+          "revision": "d2c49786e9245d77f4eba6ce78a87f87506623c5",
           "version": null
         }
       }
