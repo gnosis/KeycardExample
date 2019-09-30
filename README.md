@@ -1,5 +1,6 @@
 # KeycardExample
 
-Example management app for Status Keycard
+Simple example of using the Keycard.swift SDK:
 
-Work in progress :rocket:
+- Select applet
+- Initialize card.
